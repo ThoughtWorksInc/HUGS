@@ -1,12 +1,12 @@
 {
-  "name": "HUGS",
-  "url": "https://github.com/proletariatgames/HUGS",
+  "name": "microbuilder-HUGS",
+  "url": "https://github.com/ThoughtWorksInc/microbuilder-HUGS",
   "license": "BSD",
   "tags": ["unity","unity3d","cs","csharp","game"],
   "description": "Haxe Unity Glue... stuff",
-  "version": "0.2.0",
-  "releasenote": "Update for Unity 4.5",
-  "contributors": ["HUGS_Developers"],
+  "version": "2.0.0",
+  "releasenote": "A fork of proletariatgames's HUGS with bug fix.",
+  "contributors": ["Atry", "HUGS_Developers"],
   "dependencies": {
 	  "hxcs": ""
   }

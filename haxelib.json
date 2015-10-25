@@ -4,8 +4,8 @@
   "license": "BSD",
   "tags": ["unity","unity3d","cs","csharp","game"],
   "description": "Haxe Unity Glue... stuff",
-  "version": "2.0.0",
-  "releasenote": "A fork of proletariatgames's HUGS with bug fix.",
+  "version": "2.0.1",
+  "releasenote": "Remove custom haxe.Timer",
   "contributors": ["Atry", "HUGS_Developers"],
   "dependencies": {
 	  "hxcs": ""
